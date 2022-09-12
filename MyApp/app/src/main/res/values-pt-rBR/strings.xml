@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_simulate">Botao de simulacao de partidas</string>
+    <string name="cd_home_team">imagem do time mandante.</string>
+    <string name="cd_away_team">imagem do time visitante.</string>
+    <string name="error_api">Erro inesperado.</string>
+</resources>
